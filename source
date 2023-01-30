@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NAFIGAMER8/hole-simulator-op/main/blackholeop"))()
